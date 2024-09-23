@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["AOS","init"],"mappings":";;AAAAA,GAAG,CAACC,IAAJ","sourcesContent":["AOS.init();"],"file":"script.dev.js"}
