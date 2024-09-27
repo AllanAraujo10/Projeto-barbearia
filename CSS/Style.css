@@ -223,14 +223,14 @@ i {
   padding: 54px 14px;
 }
 
-.services-cotente h2 {
+.services-content h2 {
   text-transform: uppercase;
   text-align: center;
   font-size: 38px;
   margin-bottom: 14px;
 }
 
-.services-cotente p {
+.services-content p {
   line-height: 150%;
   margin-bottom: 14px;
   text-align: center;
@@ -284,7 +284,7 @@ i {
 }
 
 @media screen and (max-width: 768px) {
-  .haircut {
+  .haircuts {
     flex-direction: column;
   }
   .haircut img {
@@ -322,7 +322,6 @@ i {
 
 .map h2 {
   font-size: 38px;
-  text-transform: uppercase;
   margin-bottom: 30px;
 }
 
